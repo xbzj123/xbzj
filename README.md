@@ -2,7 +2,7 @@
 
 第一次打开有点慢，不要着急，耐心等待哦~~
 
-![](https://pic.imgdb.cn/item/62931864094754312914ff79.jpg)
+![]([img]https://pic.imgdb.cn/item/6294dee30947543129597092.jpg[/img])
 
 ---
 

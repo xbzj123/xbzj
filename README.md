@@ -1,8 +1,8 @@
+![]([img]https://pic.imgdb.cn/item/6294dee30947543129597092.jpg[/img])
+
 欢迎弟兄姊妹光临香柏之家，下面是礼拜天分享的信息。
 
 第一次打开有点慢，不要着急，耐心等待哦~~
-
-![]([img]https://pic.imgdb.cn/item/6294dee30947543129597092.jpg[/img])
 
 ---
 

@@ -5,15 +5,10 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/%E2%9C%9F-%E4%B8%BB%E6%97%A5%E8%AF%81%E9%81%93-brightgreen)](https://xbzj123.github.io/Sunday.github.io/)
 ---
 [![first-timers-only Friendly](https://img.shields.io/badge/%E2%9C%9F-查　　经-yellowgreen)](https://xbzj123.github.io/Bible.github.io/)
+---
+[![Open Source Helpers](https://img.shields.io/badge/%E2%9C%9F-%E5%BB%BA%E8%AE%BE%E4%B8%AD%E2%80%A6%E2%80%A6-red)]()
+---
 
----
-[![Open Source Helpers](https://img.shields.io/badge/%E2%9C%9F-初信栽培-orange)]()
----
-[![Setup Automated](https://img.shields.io/badge/Curriculum-建设中……-critical)]()
----
-[![Rocket.Chat](https://img.shields.io/badge/Curriculum-建设中……-blue)]()
-
----
 
 
 ---

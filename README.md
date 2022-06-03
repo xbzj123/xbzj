@@ -1,7 +1,20 @@
 ![](https://pic.imgdb.cn/item/6294dee30947543129597092.jpg)
-欢迎弟兄姊妹光临香柏之家，下面是礼拜天分享的信息。
 
-第一次打开有点慢，不要着急，耐心等待哦~~
+
+---
+[![Pull Requests Welcome](https://img.shields.io/badge/video-主日证道-brightgreen)](https://xbzj123.github.io/Sunday.github.io/)
+---
+[![first-timers-only Friendly](https://img.shields.io/badge/video-查　　经-yellow)](https://xbzj123.github.io/Bible.github.io/)
+
+---
+[![Open Source Helpers](https://img.shields.io/badge/%E2%9C%9F-初信栽培-orange)]()
+---
+[![Setup Automated](https://img.shields.io/badge/Curriculum-建设中……-critical)]()
+---
+[![Rocket.Chat](https://img.shields.io/badge/Curriculum-建设中……-blue)]()
+
+---
+
 
 ---
 
